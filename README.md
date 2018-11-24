@@ -1,2 +1,5 @@
 # hello-world
-This ismy first github project learning stage!
+
+Hello friends!
+
+Rudra here, I like cake php hence I have made some changes.
